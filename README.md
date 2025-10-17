@@ -3,6 +3,8 @@
 This is a RESTful API built using **Express.js** that performs standard CRUD operations for products.  
 It includes middleware for logging, authentication, validation, and proper error handling.
 
+
+##A All my routes and middleware are in the server.js file
 ---
 
 ##  How to Run the Server
